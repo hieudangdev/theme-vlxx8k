@@ -26,7 +26,7 @@ class ThemeIpcServiceProvider extends ServiceProvider
             'ipc' => [
                 'name' => 'Theme IPC',
                 'author' => 'opdlnf01@gmail.com',
-                'package_name' => 'kho8k/theme-ipc',
+                'package_name' => 'kho8k/theme-vlxx8k',
                 'publishes' => ['ipc-assets'],
                 'preview_image' => '',
                 'options' => [

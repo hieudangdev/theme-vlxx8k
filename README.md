@@ -17,11 +17,11 @@
 https://github.com/hacoidev/ophim-core
 
 ## Install
-1. Tại thư mục của Project: `composer require kho8k/theme-ipc`
+1. Tại thư mục của Project: `composer require kho8k/theme-vlxx8k`
 2. Kích hoạt giao diện trong Admin Panel
 
 ## Update
-1. Tại thư mục của Project: `composer update kho8k/theme-ipc`
+1. Tại thư mục của Project: `composer update kho8k/theme-vlxx8k`
 2. Re-Activate giao diện trong Admin Panel
 
 ## Note
@@ -44,5 +44,5 @@ https://github.com/hacoidev/ophim-core
     + `Top phim lẻ||type|single|view_total|desc|9`
 
 ### Custom View Blade
-- File blade gốc trong Package: `/vendor/kho8k/theme-ipc/resources/views/themeipc`
+- File blade gốc trong Package: `/vendor/kho8k/theme-vlxx8k/resources/views/themeipc`
 - Copy file cần custom đến: `/resources/views/vendor/themes/themeipc`
